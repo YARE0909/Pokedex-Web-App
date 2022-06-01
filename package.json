@@ -8,8 +8,7 @@
     "preview": "svelte-kit preview",
     "prepare": "svelte-kit sync",
     "lint": "prettier --check --plugin-search-dir=. . && eslint .",
-    "format": "prettier --write --plugin-search-dir=. .",
-    "deploy": "node ./gh-pages.js"
+    "format": "prettier --write --plugin-search-dir=. ."
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
