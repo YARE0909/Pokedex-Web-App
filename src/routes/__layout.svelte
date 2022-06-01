@@ -5,7 +5,7 @@
 
 <div
 	class="min-h-screen m-0 bg-gray-800 
-            h-32 scrollbar scrollbar-thumb-transparent 
+            h-34 scrollbar scrollbar-thumb-transparent 
             scrollbar-track-transparent">
 	<Nav />
 	<slot />
