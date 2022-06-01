@@ -4,7 +4,7 @@
 </script>
 
 <div
-	class="bg-gray-800 min-h-screen m-0 
+	class="min-h-screen m-0 bg-gray-800 
             h-32 scrollbar scrollbar-thumb-transparent 
             scrollbar-track-transparent">
 	<Nav />
